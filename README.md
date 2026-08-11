@@ -1,6 +1,6 @@
 # Hi, I'm Soumyajit Biswas 👋
 
-### Civil Engineering Student | Exploring Engineering, Technology & AI
+### Civil Engineering Student | Exploring AI & Technology for Engineering
 
 I'm a Civil Engineering student currently building my foundation in **Civil Engineering, computational tools and technology**.
 
@@ -36,8 +36,6 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 
 - AutoCAD
 - STAAD.Pro
-- QGIS
-- Microsoft Excel
 
 ---
 
@@ -45,7 +43,6 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 
 - Python
 - Git & GitHub
-- Programming fundamentals
 - Computational problem solving
 - AI-assisted workflows
 
