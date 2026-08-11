@@ -11,10 +11,7 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 ## 🏗️ About Me
 
 - 🎓 Civil Engineering student
-- 📐 Interested in Structural Engineering and Infrastructure
-- 🏗️ Interested in Construction & Engineering Technology
 - 🤖 Exploring the applications of AI in Engineering
-- 💻 Beginning my journey into Programming & Computational Engineering
 - 📚 Currently focused on strengthening my Civil Engineering fundamentals
 - 🎯 Preparing for GATE and building a strong foundation for higher studies
 
@@ -24,7 +21,6 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 
 - Structural Engineering
 - Construction & Infrastructure
-- Engineering Analysis
 - Computational Engineering
 - Engineering Modelling & Simulation
 - AI Applications in Civil Engineering
