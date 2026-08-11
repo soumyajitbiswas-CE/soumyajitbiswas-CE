@@ -2,13 +2,13 @@
 
 ### Civil Engineering Student | Exploring AI & Technology for Engineering
 
-I'm a Civil Engineering student currently building my foundation in **Civil Engineering, computational tools and technology**.
+I'm a Civil Engineering student currently building my foundation in Civil Engineering, programming, computational tools and technology.
 
-My long-term interest lies in combining **Civil Engineering with programming, AI and computational methods** to solve engineering problems and build useful tools.
+My long-term interest lies in combining Civil Engineering with programming, AI and computational methods to solve engineering problems and build useful tools.
 
 ---
 
-## 🏗️ About Me
+## 🎓 About Me
 
 - 🎓 Civil Engineering student
 - 🤖 Exploring the applications of AI in Engineering
@@ -17,14 +17,14 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 
 ---
 
-## 🔍 Areas I'm Interested In
+## 🔎 Areas I'm Interested In
 
-- Structural Engineering
-- Construction & Infrastructure
-- Computational Engineering
-- Engineering Modelling & Simulation
-- AI Applications in Civil Engineering
-- Engineering Software & Digital Tools
+- 🏗️ Structural Engineering
+- 🏢 Construction & Infrastructure
+- 📐 Engineering Modelling & Simulation
+- 🤖 AI Applications in Civil Engineering
+- 💻 Computational Methods in Engineering
+- 🛠️ Engineering Software & Digital Tools
 
 ---
 
@@ -35,31 +35,31 @@ My long-term interest lies in combining **Civil Engineering with programming, AI
 
 ---
 
-## 💻 Currently Learning
+## 📚 Currently Learning
 
-- Python
-- Git & GitHub
-- Computational problem solving
-- AI-assisted workflows
+- 🐍 Python
+- 🔧 Git & GitHub
+- 💻 Programming Fundamentals
+- 🤖 AI-assisted Development
 
 ---
 
 ## 🚀 What I'm Building Towards
 
-I plan to gradually build projects at the intersection of **Civil Engineering and Technology**, including:
+I plan to gradually build projects at the intersection of Civil Engineering and Technology, including:
 
 - 📐 Engineering calculation tools
 - 🏗️ Civil Engineering applications
-- 💻 Python-based engineering utilities
+- 🐍 Python-based engineering utilities
 - 📊 Engineering analysis & visualization
 - 🤖 AI-assisted engineering tools
-- 🌉 Computational simulations
+- 🧮 Computational simulations
 
 These will be added here as I learn, build and experiment.
 
 ---
 
-## 📚 Current Focus
+## 🎯 Current Focus
 
 > Building strong fundamentals in Civil Engineering while developing the programming and computational skills needed to explore the future of engineering.
 
