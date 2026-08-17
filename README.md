@@ -38,8 +38,6 @@ My long-term interest lies in combining Civil Engineering with programming, AI a
 ## 📚 Currently Learning
 
 - 🐍 Python
-- 🔧 Git & GitHub
-- 💻 Programming Fundamentals
 - 🤖 AI-assisted Development
 
 ---
